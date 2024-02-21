@@ -1,0 +1,1 @@
+A user-friendly web app using advanced image recognition to predict and classify various skin diseases instantly. Empowering users with quick, reliable, and informative results for proactive skin health management.
